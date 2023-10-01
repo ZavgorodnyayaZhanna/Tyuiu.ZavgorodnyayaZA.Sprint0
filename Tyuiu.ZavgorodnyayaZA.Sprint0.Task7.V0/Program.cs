@@ -3,20 +3,20 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Tyuiu.TkachukSS.Sprint0.Task7.V0.Lib;
-namespace Tyuiu.TkachukSS.Sprint0.Task7.V0
+using Tyuiu.ZavgorodnyayaZA.Sprint0.Task7.V0.Lib;
+namespace Tyuiu.ZavgorodnyayaZA.Sprint0.Task7.V0
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.Title = "Спринт #0 | Выполнил: Ткачук С.С | РПСб-23-1";
+            Console.Title = "Спринт #0 | Выполнила: Завгородняя Ж.А | ИСПб-23-1";
             Console.WriteLine("***************************************************************************"); 
             Console.WriteLine("* Спринт #0                                                               *");
             Console.WriteLine("* Тема: Создание итогового решения по спринту                             *"); 
             Console.WriteLine("* Задание #7                                                              *");
             Console.WriteLine("* Вариант #0                                                              *");
-            Console.WriteLine("* Выполнил Ткачук С.С. | ИИПб-23-2                                     *");
+            Console.WriteLine("* Выполнила Завгородняя Ж.А. | ИИПб-23-2                                     *");
             Console.WriteLine("***************************************************************************"); 
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать консольную программу на C#, которая суммирует значения двух    *"); 
